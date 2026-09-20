@@ -1,0 +1,31 @@
+{
+  "name": "langchain-study",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://fontouraemanuel03@bitbucket.org/ai-study-emanuel/langchain-study.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://bitbucket.org/ai-study-emanuel/langchain-study/issues"
+  },
+  "homepage": "https://bitbucket.org/ai-study-emanuel/langchain-study#readme",
+  "devDependencies": {
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2"
+  },
+  "dependencies": {
+    "@langchain/core": "^1.2.12",
+    "@langchain/openai": "^1.5.13",
+    "dotenv": "^18.0.1",
+    "langchain": "^1.5.11"
+  }
+}
